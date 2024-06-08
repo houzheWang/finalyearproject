@@ -10,4 +10,6 @@ All Ansys documents created during this final year project are uploaded.
 
 2. The folder named 'heatsink' is used for observaing the effect of the heatsink.
 
-3. The folder named 
+3. The folder named 'prototype2' and 'prototype3' are simulations for prototype 2 and prototype 3 included in the report.
+
+
