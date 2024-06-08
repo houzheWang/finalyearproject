@@ -1,3 +1,3 @@
 # finalyearproject
 
-The simulation and video is included
+The Ansys file for simulation and the link for videos are uploaded.
